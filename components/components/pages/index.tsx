@@ -1,0 +1,13 @@
+importReactfrom'react';
+min-h-screen">
+exportdefaultfunctionHome(){
+import{WalletContextProvider}from'../components/WalletContextProvider';
+<SwapCard/>
+<WalletContextProvider>
+import{SwapCard}from../components/SwapCard';
+return(
+<mainclassName="bg-slate-950text-slate-100flexitems-centerjustify-center
+</main>
+</WalletContextProvider>
+);
+}
